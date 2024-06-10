@@ -21,7 +21,7 @@ O refrão da musica Cibernéticos e Geeks foi criada pela Inteligência Artifici
 
 
 ## 🧐 Processo de Criação
-ChatGPT" foi utilizado para desenvolver o nome da música. "UDIO" ajudou a criar O refrão da musica.
+ChatGPT" foi utilizado para desenvolver o nome da música. "UDIO" ajudou a criar o refrão da música.
 
 
 ## 👨‍💻 Expert
