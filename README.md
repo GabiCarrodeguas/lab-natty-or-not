@@ -15,7 +15,7 @@
 # Músicas
 
 ## 📒 Descrição
-O refrão das músicas Revolução Cibernética,Conexão Digital,Código e Algoritmo foram criadaa pela Inteligência Artificial UDIO focada em criçao de músicas e bataidas com diferentes gêneros musicais.
+O refrão das músicas Revolução Cibernética,Conexão Digital,Código e Algoritmo foram criadaa pela Inteligência Artificial UDIO focada em criçao de músicas e batidas com diferentes gêneros musicais.
 
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[ChatGPT](https://chat.openai.com)** para criar nomes e revisão;
