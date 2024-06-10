@@ -6,11 +6,11 @@
  > ℹ️ **NOTE:** oiie seja bem vindo esse repositório foi desenvolvido com o objetivo de gerar uma música  com as facilidades das ferramentas de IA  durante o curso da [DIO](https://dio.me)
 
 
-[Link para a música]( https://www.udio.com/songs/pFRw5MEytzQUuG4ddxjAwT)
+[Link para a música Conexão Digital]( https://www.udio.com/songs/pFRw5MEytzQUuG4ddxjAwT)
 
 
 
-# Cibernéticos e Geeks 
+# Conexão Digital
 
 ## 📒 Descrição
 O refrão da musica Cibernéticos e Geeks foi criada pela Inteligência Artificial focada em craiçao de músicas e bataidas
